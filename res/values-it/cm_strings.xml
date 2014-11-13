@@ -19,4 +19,8 @@
     <string name="incall_vibrate_45_title">Vibra ogni minuto</string>
     <string name="incall_vibrate_45_summary">Vibra ai 45 secondi di ogni minuto di conversazione</string>
 
+    <!-- Description for incoming calls that were blacklisted -->
+    <string name="type_blacklist">Chiamate nella blacklist</string>
+    <string name="menu_add_to_blacklist">Aggiungi alla blacklist</string>
+    <string name="toast_added_to_blacklist">%s aggiunto alla blacklist.</string>
 </resources>
